@@ -1,0 +1,45 @@
+{
+   "MacBuildSettings": {
+      "appName": "memtestAtomic",
+      "packageName": "",
+      "companyName": "",
+      "productName": "MemTest"
+   },
+   "WindowsBuildSettings": {
+      "appName": "",
+      "packageName": "",
+      "companyName": "",
+      "productName": ""
+   },
+   "WebBuildSettings": {
+      "appName": "",
+      "gameWidth": "800",
+      "gameHeight": "512",
+      "faviconName": "",
+      "pageTheme": 0
+   },
+   "AndroidBuildSettings": {
+      "appName": "",
+      "packageName": "",
+      "companyName": "",
+      "productName": "",
+      "targetSDKVersion": "",
+      "minSDKVersion": "",
+      "activityName": "",
+      "iconPath": ""
+   },
+   "IOSBuildSettings": {
+      "appName": "",
+      "packageName": "",
+      "companyName": "",
+      "productName": "",
+      "provisionFile": "",
+      "appIDPrefix": ""
+   },
+   "LinuxBuildSettings": {
+      "appName": "",
+      "packageName": "",
+      "companyName": "",
+      "productName": ""
+   }
+}

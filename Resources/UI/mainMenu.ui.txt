@@ -1,0 +1,24 @@
+definitions
+	menubutton
+		font: size: 24
+
+TBLayout: axis: y, size: available
+
+	TBButton: text: "2 MB array of numbers", id: "new_2_numbers"
+		@include definitions>menubutton
+	TBButton: text: "200 MB array of numbers", id: "new_200_numbers"
+		@include definitions>menubutton
+	TBButton: text: "500 MB array of numbers", id: "new_500_numbers"
+		@include definitions>menubutton
+	TBButton: text: "1 GB array of numbers", id: "new_1000_numbers"
+		@include definitions>menubutton
+	TBButton: text: "2 MB array of arrays of numbers", id: "new_2_vectors"
+		@include definitions>menubutton
+	TBButton: text: "200 MB array of arrays of numbers", id: "new_200_vectors"
+		@include definitions>menubutton
+	TBButton: text: "500 MB array of arrays of numbers", id: "new_500_vectors"
+		@include definitions>menubutton
+	TBButton: text: "1 GB array of arrays of numbers", id: "new_1000_vectors"
+		@include definitions>menubutton
+	TBButton: text: "Quit", id: "quit"
+		@include definitions>menubutton
